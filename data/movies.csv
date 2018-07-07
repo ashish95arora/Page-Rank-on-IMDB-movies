@@ -1,0 +1,929 @@
+,movie_imdb_id,movie_name,movie_rating,movie_vote,movie_year
+0,3165,The Dead Man Who Killed,6.8,259,1913
+1,3037,Juve Against Fantomas,6.8,376,1913
+2,3930,Fantomas Against Fantomas,6.9,364,1914
+3,2844,Fantomas - A l'ombre de la guillotine,6.9,486,1913
+4,6206,Les vampires,7.0,1491,1915
+5,2452,Independenta Romaniei,7.3,55,1912
+6,19254,The Passion of Joan of Arc,8.3,10809,1928
+7,24844,L'atalante,7.9,4384,1934
+8,31885,The Rules of the Game,8.0,9374,1939
+9,37674,Children of Paradise,8.1,7927,1945
+10,28445,Partie de campagne,8.1,1338,0
+11,22150,Le million,7.6,1147,1931
+12,28950,Grand Illusion,8.1,12543,1937
+13,53459,Eyes Without a Face,7.8,4832,1960
+14,38348,Beauty and the Beast,8.1,9486,1946
+15,39739,Quai des Orfevres,7.7,1951,1947
+16,41719,Orpheus,8.0,3261,1950
+17,22599,A nous la liberte,7.7,1552,1931
+18,65234,Z,8.1,8406,1969
+19,62229,Le samourai,8.1,10822,1967
+20,58946,The Battle of Algiers,8.2,14256,1966
+21,53198,The 400 Blows,8.1,24476,1959
+22,48021,Rififi,8.1,8804,1955
+23,79820,The King and the Mockingbird,8.1,1334,1980
+24,68361,The Discreet Charm of the Bourgeoisie,8.0,11061,1972
+25,18217,Ten Days That Shook the World,7.7,2390,1928
+26,48980,The Red Balloon,8.1,3966,1956
+27,46911,Diabolique,8.3,15070,1955
+28,64040,Army of Shadows,8.1,5535,1969
+29,65531,Le cercle rouge,8.1,5185,1970
+30,46268,The Wages of Fear,8.3,14513,1953
+31,55852,Cleo from 5 to 7,7.9,3038,1962
+32,86779,The Octopus,8.4,1014,1984
+33,91288,Jean de Florette,8.0,11373,1986
+34,50783,Nights of Cabiria,8.3,11245,1957
+35,91480,Manon of the Spring,8.0,9387,1986
+36,70460,Day for Night,8.0,6347,1973
+37,54407,Le Trou,8.2,3289,1960
+38,95341,Hotel Terminus,8.1,313,1988
+39,58450,The Umbrellas of Cherbourg,7.8,7064,1964
+40,372824,The Chorus,7.7,16601,2004
+41,58715,The Gospel According to St. Matthew,7.9,3225,1964
+42,96163,The Vanishing,7.9,10816,1988
+43,54248,Rocco and His Brothers,8.2,4649,1960
+44,56119,The Pier,8.2,8059,1962
+45,76042,Grin Without a Cat,8.1,222,1977
+46,346336,The Best of Youth,8.2,7981,2003
+47,65571,The Conformist,8.1,6299,1970
+48,95765,Cinema Paradiso,8.4,46605,1988
+49,88083,Sexmission,7.8,3576,1984
+50,45554,Welcome Mr. Marshall!,8.1,1172,1953
+51,111495,Three Colors: Red,8.1,24193,1994
+52,53779,La Dolce Vita,8.1,19625,1960
+53,92593,Au revoir les enfants,8.1,10087,1987
+54,55601,Viridiana,8.2,6274,1961
+55,63032,The Great Silence,7.8,4071,1968
+56,66904,The Sorrow and the Pity,8.4,1632,1969
+57,131636,The Little Fox,8.0,2113,1981
+58,108394,Three Colors: Blue,7.9,24411,1993
+59,179955,Cat City,8.0,3743,1986
+60,829269,Puskas Hungary,8.3,560,2009
+61,59619,Fist in His Pocket,7.8,1023,1965
+62,57091,The Leopard,8.0,6602,1963
+63,38890,Open City,8.2,6372,1945
+64,101765,The Double Life of Veronique,7.7,10636,1991
+65,254038,La piovra 4,8.4,359,1989
+66,249241,Werckmeister Harmonies,8.0,2948,2000
+67,111341,Satantango,8.6,1946,1994
+68,68182,Aguirre: The Wrath of God,8.0,17935,1972
+69,83946,Fitzcarraldo,8.0,9893,1982
+70,59646,Repulsion,7.9,12915,1965
+71,55913,Divorce - Italian Style,8.2,3523,1961
+72,45274,Umberto D.,8.2,8438,1952
+73,40522,Bicycle Thieves,8.4,28167,1948
+74,118799,Life Is Beautiful,8.4,110987,1997
+75,57643,The Executioner,8.1,1540,1963
+76,401383,The Diving Bell and the Butterfly,8.0,32066,2007
+77,56801,8 1/2,8.1,30316,1963
+78,36506,Day of Wrath,7.8,3464,1943
+79,92603,Babette's Feast,7.7,6600,1987
+80,381681,Before Sunset,8.0,46096,2004
+81,38913,Shoeshine,8.0,1700,1946
+82,59012,Chimes at Midnight,8.0,2046,1965
+83,59578,For a Few Dollars More,8.3,45398,1965
+84,58461,A Fistful of Dollars,8.0,40502,1964
+85,112471,Before Sunrise,8.0,40519,1995
+86,40725,The Red Shoes,8.2,8420,1948
+87,253474,The Pianist,8.5,137475,2002
+88,56732,The Exterminating Angel,8.0,7679,1962
+89,808417,Persepolis,8.0,25848,2007
+90,118694,In the Mood for Love,8.0,25389,2000
+91,286244,The Triplets of Belleville,7.7,20042,2003
+92,424205,Joyeux Noel,7.7,9468,2005
+93,211915,Amelie,8.5,184786,2001
+94,71691,The Enigma of Kaspar Hauser,8.0,4818,1974
+95,80196,Berlin Alexanderplatz,8.8,1532,1980
+96,37382,To Have and Have Not,8.0,12855,1944
+97,113247,La Haine,8.0,28316,1995
+98,47528,La strada,8.2,18147,1954
+99,46250,Roman Holiday,8.1,31780,1953
+100,71604,Hearts and Minds,8.4,2089,1974
+101,82755,Teddy Bear,8.1,2067,1981
+102,74896,Mohammad: Messenger of God,8.0,6860,1976
+103,48434,Nuit et brouillard,8.6,5445,1955
+104,67140,Duck_ You Sucker,7.6,9532,1971
+105,317910,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,8.2,10588,2003
+106,78788,Apocalypse Now,8.6,175810,1979
+107,60196,The Good_ the Bad and the Ugly,9.0,164129,1966
+108,911010,White Light/Black Rain: The Destruction of Hiroshima and Nagasaki,8.2,772,2007
+109,41959,The Third Man,8.5,51723,1949
+110,379225,The Corporation,8.2,9475,2003
+111,759952,American Zeitgeist,8.2,1951,2006
+112,841119,Lake of Fire,8.3,1043,2006
+113,60827,Persona,8.0,15934,1966
+114,64116,Once Upon a Time in the West,8.7,75758,1968
+115,93191,Wings of Desire,8.0,19723,1987
+116,168629,Dancer in the Dark,7.8,36938,2000
+117,70644,Scenes from a Marriage,8.3,4899,1973
+118,73000,Pinchcliffe Grand Prix,7.8,6065,1975
+119,52618,Ben-Hur,8.2,59618,1959
+120,1039647,The Union: The Business Behind Getting High,8.4,1591,2007
+121,50976,The Seventh Seal,8.3,37675,1957
+122,9150,Hearts of the World,6.9,447,1918
+123,50986,Wild Strawberries,8.3,21787,1957
+124,42804,The Young and the Damned,8.1,6014,1950
+125,386032,Sicko,8.2,41200,2007
+126,93488,The Man Who Planted Trees,8.6,2032,1988
+127,384369,Before the Fall,7.5,4758,2004
+128,338564,Infernal Affairs,8.0,36436,2002
+129,69467,Cries and Whispers,8.0,8545,1972
+130,75520,Jesus of Nazareth,8.5,4771,1977
+131,251447,The Tunnel,7.9,2408,2001
+132,69035,The New Land,7.9,1003,1972
+133,63759,Hour of the Wolf,7.7,4573,1968
+134,53976,The Virgin Spring,8.1,7849,1960
+135,91670,The Sacrifice,7.9,5036,1986
+136,131658,Zapruder Film of Kennedy Assassination,8.1,1127,1963
+137,82096,Das Boot,8.5,71270,1981
+138,81834,Das Boot,9.2,2741,1985
+139,363163,Downfall,8.4,84050,2004
+140,34583,Casablanca,8.8,170352,1942
+141,986272,Validation,8.2,1140,2007
+142,91251,Come and See,8.1,9740,1985
+143,83922,Fanny and Alexander,8.2,14426,1982
+144,310793,Bowling for Columbine,8.2,77406,2002
+145,120731,The Legend of 1900,7.8,14810,1998
+146,108052,Schindler's List,8.9,281280,1993
+147,8879,You and I,6.8,390,1918
+148,8663,A Man There Was,6.9,297,1917
+149,912593,No End in Sight,8.3,4119,2007
+150,420206,Summer Storm,7.4,5301,2004
+151,363510,The Revolution Will Not Be Televised,8.2,1282,2003
+152,95467,A Short Film About Love,8.3,3729,1988
+153,349825,Miracle,7.4,16453,2004
+154,92337,Dekalog,9.1,5298,1989
+155,88275,The Times of Harvey Milk,8.3,2356,1984
+156,108906,The Kingdom,8.6,6978,1994
+157,405094,The Lives of Others,8.5,77069,2006
+158,77711,Autumn Sonata,8.1,5395,1978
+159,68327,Cabaret,7.8,18258,1972
+160,154420,The Celebration,8.0,26900,1998
+161,57877,Becket,8.0,5363,1964
+162,1179034,From Paris with Love,6.4,22368,2010
+163,12364,The Phantom Carriage,7.8,1528,1921
+164,15881,Greed,8.0,3989,1924
+165,10247,Herr Arnes pengar,6.8,376,1919
+166,1205489,Gran Torino,8.3,133449,2008
+167,367555,No Direction Home: Bob Dylan,8.5,6517,2005
+168,40338,The Fallen Idol,7.9,2351,1948
+169,96716,Traffik,8.5,946,1989
+170,87884,Paris_ Texas,7.9,16555,1984
+171,56194,The Loneliness of the Long Distance Runner,7.6,2497,1962
+172,71562,The Godfather: Part II,9.0,250117,1974
+173,1220719,Ip Man,8.1,14735,2008
+174,249462,Billy Elliot,7.6,38723,2000
+175,1386932,Ip Man 2,7.6,5871,2010
+176,112130,Pride and Prejudice,9.1,21536,1995
+177,338309,Evil,7.9,12684,2003
+178,54167,Peeping Tom,7.8,9318,1960
+179,109830,Forrest Gump,8.6,307120,1994
+180,87843,Once Upon a Time in America,8.4,73614,1984
+181,112373,Anne Frank Remembered,8.1,435,1995
+182,88247,The Terminator,8.1,182775,1984
+183,90521,The Singing Detective,8.8,2253,1986
+184,1545103,Rush: Beyond the Lighted Stage,8.4,659,2010
+185,1424381,Predators,6.6,35660,2010
+186,105695,Unforgiven,8.3,100851,1992
+187,87553,The Killing Fields,8.0,22088,1984
+188,66714,The Six Wives of Henry VIII,8.3,402,1970
+189,116790,Kolya,7.6,7073,1996
+190,421082,Control,7.7,19852,2007
+191,83390,Brideshead Revisited,8.8,2496,1981
+192,86667,The Barchester Chronicles,8.3,452,1982
+193,102138,JFK,8.0,60303,1991
+194,86250,Scarface,8.1,155125,1983
+195,162973,Get Real,7.4,6057,1998
+196,80310,Breaker Morant,8.0,6136,1980
+197,1130884,Shutter Island,8.0,112594,2010
+198,74119,All the President's Men,8.0,32659,1976
+199,120802,The Red Violin,7.7,14646,1998
+200,120735,Lock_ Stock and Two Smoking Barrels,8.1,128581,1998
+201,56172,Lawrence of Arabia,8.5,80629,1962
+202,70047,The Exorcist,8.1,105841,1973
+203,68646,The Godfather,9.2,417734,1972
+204,965382,Tom Petty and the Heartbreakers: Runnin' Down a Dream,8.3,470,2007
+205,70917,The Wicker Man,7.7,20741,1973
+206,780536,In Bruges,8.0,100573,2008
+207,9893,My Lady Margarine,6.9,484,1919
+208,955308,Robin Hood,6.9,43650,2010
+209,36112,The Life and Death of Colonel Blimp,8.1,4615,1943
+210,83987,Gandhi,8.1,51911,1982
+211,1139328,The Ghost Writer,7.5,26754,2010
+212,1453159,The Pillars of the Earth,8.5,2277,2010
+213,405159,Million Dollar Baby,8.1,144320,2004
+214,327056,Mystic River,8.0,121983,2003
+215,70464,O Lucky Man!,7.7,3427,1973
+216,1230165,Rock On!!,7.7,3295,2008
+217,361748,Inglourious Basterds,8.3,185528,2009
+218,947810,Green Zone,7.0,29284,2010
+219,462441,Amazing Journey: The Story of The Who,8.1,511,2007
+220,69762,Badlands,7.9,16706,1973
+221,39192,Black Narcissus,8.0,6997,1947
+222,432283,Fantastic Mr. Fox,7.9,28360,2009
+223,185906,Band of Brothers,9.6,76536,2001
+224,66858,The Boy Friend,7.7,1348,1971
+225,133093,The Matrix,8.7,387925,1999
+226,40416,Hamlet,7.9,5457,1948
+227,91167,Hannah and Her Sisters,7.9,21039,1986
+228,72684,Barry Lyndon,8.1,40479,1975
+229,215364,Wives and Daughters,8.4,1875,1999
+230,66652,Elizabeth R,8.6,595,1971
+231,78748,Alien,8.5,183721,1979
+232,30637,Pygmalion,7.9,2989,1938
+233,1014762,Home,8.4,5793,0
+234,1151319,The Key to Reserva,8.1,1540,2007
+235,892375,U2 3D,8.2,2102,2007
+236,172495,Gladiator,8.3,284885,2000
+237,93389,The Last Emperor,7.9,24472,1987
+238,80678,The Elephant Man,8.4,59383,1980
+239,57578,This Sporting Life,7.8,2273,1963
+240,434409,V for Vendetta,8.1,228880,2006
+241,51994,A Night to Remember,7.9,5843,1958
+242,473075,Prince of Persia: The Sands of Time,6.7,45405,2010
+243,268978,A Beautiful Mind,7.9,128124,2001
+244,1178522,Little Dorrit,8.4,735,2008
+245,112817,Dead Man,7.7,32914,1995
+246,446059,Fearless,7.6,28640,2006
+247,97576,Indiana Jones and the Last Crusade,8.3,174307,1989
+248,74006,I_ Claudius,9.2,4830,1976
+249,66921,A Clockwork Orange,8.5,196690,1971
+250,61184,Who's Afraid of Virginia Woolf?,8.0,20213,1966
+251,37558,Brief Encounter,8.2,13776,1945
+252,72417,A Woman Under the Influence,8.0,5186,1974
+253,472027,John Adams,8.7,7822,2008
+254,114746,Twelve Monkeys,8.1,172680,1995
+255,38574,Great Expectations,8.1,9861,1946
+256,97351,Field of Dreams,7.6,43788,1989
+257,60665,A Man for All Seasons,8.0,12523,1966
+258,116282,Fargo,8.3,167677,1996
+259,120689,The Green Mile,8.3,203071,1999
+260,974077,Return to Cranford,8.6,1994,2007
+261,440963,The Bourne Ultimatum,8.1,149339,2007
+262,1440728,The American,6.7,8456,2010
+263,77416,The Deer Hunter,8.2,89476,1978
+264,1020558,Centurion,6.4,11330,2010
+265,61253,The Forsyte Saga,8.4,283,1967
+266,312004,Wallace & Gromit in The Curse of the Were-Rabbit,7.8,38418,2005
+267,64840,The Prime of Miss Jean Brodie,7.6,3364,1969
+268,93058,Full Metal Jacket,8.3,154791,1987
+269,462322,Grindhouse,7.8,83677,2007
+270,140352,The Insider,8.0,69517,1999
+271,102926,The Silence of the Lambs,8.7,250155,1991
+272,112573,Braveheart,8.3,244741,1995
+273,166896,The Straight Story,8.0,36546,1999
+274,102015,Hearts of Darkness: A Filmmaker's Apocalypse,8.1,5582,1991
+275,57129,The Haunting,7.7,11650,0
+276,1250777,Kick-Ass,8.0,97093,2010
+277,110413,The Professional,8.6,203951,1994
+278,120815,Saving Private Ryan,8.5,274725,1998
+279,963966,The Sorcerer's Apprentice,6.3,10165,2010
+280,92991,Evil Dead II,7.8,44825,1987
+281,1027718,Wall Street: Money Never Sleeps,6.6,10975,2010
+282,39677,Odd Man Out,7.9,2686,1947
+283,416320,Match Point,7.8,66551,2005
+284,58557,Seance on a Wet Afternoon,8.1,2478,1964
+285,120382,The Truman Show,8.0,159991,1998
+286,57115,The Great Escape,8.3,63159,1963
+287,1403981,Remember Me,6.9,17980,2010
+288,90424,Edge of Darkness,8.7,1564,1985
+289,1375666,Inception,9.0,214582,2010
+290,317248,City of God,8.7,170698,2002
+291,365748,Shaun of the Dead,8.0,136864,2004
+292,117666,Sling Blade,8.0,42047,1996
+293,985694,Machete,7.3,23763,2010
+294,1341167,Four Lions,7.5,6179,2010
+295,41546,Kind Hearts and Coronets,8.3,13345,1949
+296,94226,The Untouchables,8.0,86914,1987
+297,13257,Haxan: Witchcraft Through the Ages,7.7,2872,1922
+298,407887,The Departed,8.5,269757,2006
+299,88846,Brazil,8.0,77216,1985
+300,82971,Raiders of the Lost Ark,8.7,246177,1981
+301,114787,Underground,8.0,15685,1995
+302,86879,Amadeus,8.4,98689,1984
+303,1226273,Edge of Darkness,6.7,25480,2010
+304,395169,Hotel Rwanda,8.3,93962,2004
+305,1366312,Emma,8.5,1534,2009
+306,1028532,Hachi: A Dog's Tale,8.0,11821,2009
+307,954947,The Killer Inside Me,6.4,5889,2010
+308,1182345,Moon,8.0,58041,2009
+309,55018,The Innocents,7.9,6976,1961
+310,1057500,Invictus,7.4,29289,2009
+311,329575,Seabiscuit,7.4,31313,2003
+312,443680,The Assassination of Jesse James by the Coward Robert Ford,7.7,58433,2007
+313,54047,The Magnificent Seven,7.8,27149,1960
+314,90315,When the Wind Blows,7.8,2294,1986
+315,780362,Jane Eyre,8.5,4382,2006
+316,468569,The Dark Knight,8.8,473880,2008
+317,208092,Snatch.,8.2,177277,2000
+318,167404,The Sixth Sense,8.2,243245,1999
+319,857191,The Visitor,7.8,18715,0
+320,77402,Dawn of the Dead,8.0,42986,1978
+321,107207,In the Name of the Father,8.0,27790,1993
+322,75314,Taxi Driver,8.6,158824,1976
+323,995832,Generation Kill,8.8,10902,2008
+324,43014,Sunset Blvd.,8.7,55759,1950
+325,99685,Goodfellas,8.8,233589,1990
+326,413615,Unforgivable Blackness: The Rise and Fall of Jack Johnson,8.1,542,2004
+327,84787,The Thing,8.1,80506,1982
+328,417349,North & South,8.8,4590,2004
+329,84503,Pink Floyd The Wall,7.7,25889,1982
+330,119217,Good Will Hunting,8.0,153751,1997
+331,80684,Star Wars: The Empire Strikes Back,8.8,282253,1980
+332,1125849,The Wrestler,8.1,95983,2008
+333,67093,Fiddler on the Roof,7.8,14373,1971
+334,1386588,The Other Guys,6.9,16984,2010
+335,113277,Heat,8.2,147538,1995
+336,197139,O Auto da Compadecida,8.6,493,1999
+337,1555149,Elite Squad 2,9.0,1147,2010
+338,99348,Dances with Wolves,8.0,72275,1990
+339,114369,Se7en,8.6,284981,1995
+340,63350,Night of the Living Dead,8.0,39652,1968
+341,840361,The Town,8.0,15947,2010
+342,358456,Earthlings,8.4,2380,2005
+343,91763,Platoon,8.2,110418,1986
+344,175880,Magnolia,8.0,123118,1999
+345,907657,Once,8.0,34822,2006
+346,206634,Children of Men,8.0,161603,2006
+347,325980,Pirates of the Caribbean: The Curse of the Black Pearl,8.0,237157,2003
+348,224853,The Corner,8.7,1370,2000
+349,63633,The Cremator,7.9,1642,1969
+350,97123,Crimes and Misdemeanors,8.0,19843,1989
+351,71360,The Conversation,8.0,33574,1974
+352,209144,Memento,8.6,279777,2000
+353,809488,The Godfather: A Novel for Television,9.2,1360,1977
+354,75686,Annie Hall,8.2,66507,1977
+355,97441,Glory,8.0,56683,1989
+356,72890,Dog Day Afternoon,8.1,60852,1975
+357,372784,Batman Begins,8.3,275060,2005
+358,815236,She's Out of My League,6.6,19271,2010
+359,446029,Scott Pilgrim vs. the World,8.0,25646,2010
+360,73440,Nashville,7.7,9291,1975
+361,110912,Pulp Fiction,8.9,425037,1994
+362,77060,Pennies from Heaven,8.4,491,1978
+363,469494,There Will Be Blood,8.2,133742,2007
+364,944835,Salt,6.5,34029,2010
+365,118715,The Big Lebowski,8.2,181447,1998
+366,380275,Concert for George,8.4,763,2003
+367,109707,Ed Wood,8.0,75423,1994
+368,103064,Terminator 2: Judgment Day,8.5,242166,1991
+369,71853,Monty Python and the Holy Grail,8.4,157131,1975
+370,90605,Aliens,8.5,172898,1986
+371,1320253,The Expendables,6.9,52136,2010
+372,460505,The Rocket: The Legend of Rocket Richard,7.8,2342,2005
+373,120737,The Lord of the Rings: The Fellowship of the Ring,8.7,393761,2001
+374,1226271,The Damned United,7.5,7971,2009
+375,105236,Reservoir Dogs,8.4,216414,1992
+376,83689,Boys from the Blackstuff,8.4,436,1982
+377,362192,State of Play,8.6,2555,2003
+378,1013743,Knight and Day,6.5,21903,2010
+379,44008,A Christmas Carol,8.0,8005,1951
+380,408236,Sweeney Todd: The Demon Barber of Fleet Street,7.7,106836,2007
+381,38733,Stairway to Heaven,8.0,6610,1946
+382,62622,2001: A Space Odyssey,8.4,162713,1968
+383,107048,Groundhog Day,8.1,137939,1993
+384,117951,Trainspotting,8.1,153165,1996
+385,158983,South Park: Bigger Longer & Uncut,7.8,80126,1999
+386,112641,Casino,8.1,110715,1995
+387,108598,Wallace & Gromit in The Wrong Trousers,8.5,24622,1993
+388,374463,The Pacific,8.4,11754,2010
+389,412080,The World's Fastest Indian,7.9,19962,2005
+390,180093,Requiem for a Dream,8.4,188781,2000
+391,167260,The Lord of the Rings: The Return of the King,8.8,370260,2003
+392,96639,Lonesome Dove,8.8,6897,1989
+393,1156398,Zombieland,7.8,85243,2009
+394,114814,The Usual Suspects,8.7,271233,1995
+395,78902,Breaking Away,7.6,9464,1979
+396,181875,Almost Famous,8.0,95368,2000
+397,79522,Manhattan,8.1,39361,1979
+398,167261,The Lord of the Rings: The Two Towers,8.6,332293,2002
+399,126029,Shrek,7.9,165231,2001
+400,69090,Echoes: Pink Floyd,8.2,3077,1972
+401,79470,Life of Brian,8.2,95751,1979
+402,385002,Green Street Hooligans,7.5,38375,2005
+403,311519,The Man Without a Past,7.6,10365,2002
+404,93779,The Princess Bride,8.1,124954,1987
+405,86190,Star Wars: Return of the Jedi,8.3,214276,1983
+406,1245526,Red,7.3,12025,0
+407,37635,Dead of Night,7.8,3562,1945
+408,95016,Die Hard,8.3,184664,1988
+409,75029,The Outlaw Josey Wales,7.8,22169,1976
+410,878804,The Blind Side,7.6,44700,2009
+411,338013,Eternal Sunshine of the Spotless Mind,8.4,224014,2004
+412,371746,Iron Man,7.9,177327,2008
+413,914863,Unthinkable,7.1,15166,2010
+414,892769,How to Train Your Dragon,8.2,38318,2010
+415,1279935,Date Night,6.4,26060,2010
+416,455407,The Crazies,6.7,23167,2010
+417,166924,Mulholland Dr.,8.0,105389,2001
+418,401792,Sin City,8.3,260077,2005
+419,350258,Ray,7.8,43456,0
+420,118843,Black Cat_ White Cat,8.0,16889,1998
+421,97223,Time of the Gypsies,8.1,7016,1988
+422,54098,Mughal-E-Azam,7.8,1037,1960
+423,1226229,Get Him to the Greek,6.7,21655,2010
+424,108358,Tombstone,7.7,44102,1993
+425,73341,The Man Who Would Be King,8.0,18566,1975
+426,111161,The Shawshank Redemption,9.2,530042,1994
+427,112691,Wallace and Gromit in A Close Shave,8.3,17199,1995
+428,498380,Letters from Iwo Jima,8.0,58204,2006
+429,120570,From the Earth to the Moon,8.8,4393,1998
+430,358273,Walk the Line,7.9,86101,2005
+431,477348,No Country for Old Men,8.3,201767,2007
+432,1014759,Alice in Wonderland,6.7,66365,2010
+433,758758,Into the Wild,8.2,102671,2007
+434,1228705,Iron Man 2,7.2,70854,2010
+435,107290,Jurassic Park,7.9,153350,1993
+436,137523,Fight Club,8.7,389958,1999
+437,382932,Ratatouille,8.1,135074,2007
+438,1053424,Repo Men,6.3,19334,2010
+439,106148,Tales of the City,8.5,1270,1993
+440,435761,Toy Story 3,8.8,77577,2010
+441,57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.6,158030,1964
+442,108037,The Sandlot,7.4,19237,1993
+443,76759,Star Wars: Episode IV - A New Hope,8.8,325473,1977
+444,85112,The Winds of War,8.4,1264,1983
+445,190590,O Brother_ Where Art Thou?,7.8,95433,2000
+446,91725,Parting Glances,7.8,1354,1986
+447,482571,The Prestige,8.4,212455,2006
+448,499549,Avatar,8.2,269265,2009
+449,381849,3:10 to Yuma,7.9,99587,2007
+450,74958,Network,8.1,34463,1976
+451,756683,The Man from Earth,8.0,32898,2007
+452,210945,Remember the Titans,7.5,50302,2000
+453,352248,Cinderella Man,8.0,63654,2005
+454,6864,Intolerance: Love's Struggle Throughout the Ages,8.1,5457,1916
+455,379786,Serenity,7.9,107745,2005
+456,1314655,Devil,6.5,5117,2010
+457,1136608,District 9,8.2,157056,2009
+458,87781,The Natural,7.4,17194,1984
+459,442632,Bleak House,8.7,2366,2005
+460,317705,The Incredibles,8.1,162427,2004
+461,88258,This Is Spinal Tap,7.9,50593,1984
+462,978762,Mary and Max,8.2,12266,2009
+463,378194,Kill Bill: Vol. 2,8.0,186532,2004
+464,91217,Hoosiers,7.5,15272,1986
+465,114709,Toy Story,8.2,155281,1995
+466,308644,Finding Neverland,7.9,87610,2004
+467,120586,American History X,8.6,229518,1998
+468,1188996,My Name Is Khan,7.0,7668,2010
+469,319061,Big Fish,8.0,143699,2003
+470,480255,The Losers,6.4,17809,0
+471,88763,Back to the Future,8.4,206203,1985
+472,85334,A Christmas Story,8.0,51955,1983
+473,98437,The Winter War,7.9,3860,1989
+474,67185,Harold and Maude,8.0,28636,1971
+475,266543,Finding Nemo,8.1,168695,2003
+476,198781,Monsters_ Inc.,8.0,119146,2001
+477,42788,Night and the City,8.0,3350,1950
+478,71315,Chinatown,8.5,80427,1974
+479,80455,The Blues Brothers,7.9,63477,1980
+480,796366,Star Trek,8.1,137693,2009
+481,1361558,Iron Maiden: Flight 666,8.3,1502,2009
+482,81398,Raging Bull,8.3,91506,1980
+483,1231587,Hot Tub Time Machine,6.7,31738,2010
+484,317219,Cars,7.4,67846,2006
+485,1234654,Greenberg,6.4,8010,2010
+486,369702,The Sea Inside,8.1,24682,0
+487,119488,L.A. Confidential,8.4,167550,1997
+488,1139797,Let the Right One In,8.0,60023,2008
+489,118849,Children of Heaven,8.0,6776,1997
+490,375679,Crash,8.0,173350,0
+491,169547,American Beauty,8.6,297305,1999
+492,56241,The Miracle Worker,8.0,5998,1962
+493,84701,The Snowman,8.1,3206,1982
+494,77405,Days of Heaven,8.0,12727,1978
+495,83866,E.T.: The Extra-Terrestrial,7.9,106218,1982
+496,69281,Sleuth,8.2,17771,1972
+497,83658,Blade Runner,8.3,188112,1982
+498,95953,Rain Man,8.0,108693,1988
+499,1313104,The Cove,8.5,9993,2009
+500,1049413,Up,8.3,115585,2009
+501,61512,Cool Hand Luke,8.3,46337,1967
+502,1285016,The Social Network,8.4,26917,2010
+503,81505,The Shining,8.5,181290,1980
+504,61722,The Graduate,8.2,79375,1967
+505,120363,Toy Story 2,8.0,122626,1999
+506,63227,The Lion in Winter,8.1,13224,1968
+507,1587707,Exit Through the Gift Shop,8.2,3244,2010
+508,110357,The Lion King,8.2,140310,1994
+509,327597,Coraline,7.8,39327,2009
+510,26029,The 39 Steps,8.0,21121,1935
+511,429493,The A-Team,7.1,36121,2010
+512,464154,Piranha,6.4,11507,2010
+513,78841,Being There,8.0,25044,1979
+514,892791,Shrek Forever After,6.7,12880,2010
+515,387564,Saw,7.7,115104,2004
+516,76993,Centennial,8.4,1167,1978
+517,77651,Halloween,7.9,64424,1978
+518,47296,On the Waterfront,8.4,41867,1954
+519,92005,Stand by Me,8.1,91710,1986
+520,1425244,Partly Cloudy,8.1,3917,2009
+521,246578,Donnie Darko,8.2,214413,2001
+522,67411,McCabe & Mrs. Miller,7.7,7515,1971
+523,1323594,Despicable Me,7.6,13525,2010
+524,56406,Requiem for a Heavyweight,7.7,1395,1962
+525,1037705,The Book of Eli,6.9,51259,2010
+526,910970,WALL-E,8.5,187187,2008
+527,942384,Shelter,7.7,3707,0
+528,107688,The Nightmare Before Christmas,8.0,81533,1993
+529,43265,The African Queen,8.0,34456,1951
+530,75148,Rocky,8.0,99407,1976
+531,70510,Paper Moon,8.1,9779,1973
+532,73486,One Flew Over the Cuckoo's Nest,8.8,218695,1975
+533,63442,Planet of the Apes,8.0,59447,1968
+534,28597,The Awful Truth,8.0,6731,1937
+535,405508,Rang De Basanti,8.0,12318,2006
+536,52311,Touch of Evil,8.3,33232,1958
+537,67328,The Last Picture Show,8.1,15534,1971
+538,22074,The Smiling Lieutenant,8.0,1469,1931
+539,74048,Rich Man_ Poor Man,8.4,996,1976
+540,245429,Spirited Away,8.5,103410,2001
+541,169102,Lagaan: Once Upon a Time in India,8.0,12342,2001
+542,71230,Blazing Saddles,7.7,46121,1974
+543,1017451,The Runaways,6.6,8088,2010
+544,73707,Sholay,7.7,6965,1975
+545,129167,The Iron Giant,7.9,39263,1999
+546,347149,Howl's Moving Castle,8.0,45913,2004
+547,101414,Beauty and the Beast,8.0,69417,1991
+548,242519,Hera Pheri,8.2,2887,2000
+549,85743,Jaane Bhi Do Yaaro,8.1,1699,1983
+550,112870,Dilwale Dulhania Le Jayenge,7.7,6255,1995
+551,103639,Aladdin,7.8,70142,1992
+552,41958,Thieves' Highway,7.8,1580,1949
+553,70511,Papillon,8.0,29034,1973
+554,56195,Lonely Are the Brave,7.7,2485,1962
+555,876563,Ponyo,7.8,14546,2008
+556,50083,12 Angry Men,8.9,122190,1957
+557,58631,The T.A.M.I. Show,8.1,249,1964
+558,47849,Bad Day at Black Rock,7.8,7204,1955
+559,64115,Butch Cassidy and the Sundance Kid,8.2,58550,1969
+560,75572,Roots,8.6,4002,1977
+561,87544,Nausicaa of the Valley of the Wind,8.1,20673,1984
+562,367110,Swades,8.2,6340,2004
+563,871510,Chak De India!,7.9,5325,2007
+564,292490,Dil Chahta Hai,8.1,7407,2001
+565,61418,Bonnie and Clyde,8.0,42489,1967
+566,95327,Grave of the Fireflies,8.2,35567,1988
+567,66206,Patton,8.1,40143,1970
+568,53604,The Apartment,8.4,37166,1960
+569,70735,The Sting,8.3,66957,1973
+570,67992,Willy Wonka & the Chocolate Factory,7.7,47224,1971
+571,456144,Lage Raho Munna Bhai,7.7,5267,2006
+572,65214,The Wild Bunch,8.1,31682,1969
+573,44081,A Streetcar Named Desire,8.1,34439,1951
+574,1187043,3 Idiots,8.1,10984,2009
+575,1010048,Slumdog Millionaire,8.3,180625,2008
+576,79221,Gol Maal,8.2,1321,1979
+577,4465,The Perils of Pauline,7.7,573,1914
+578,11841,Way Down East,8.1,1918,1920
+579,59529,Triumph Over Violence,8.2,392,1965
+580,51411,The Big Country,7.8,5522,1958
+581,61619,El Dorado,7.6,7177,1966
+582,453729,Iqbal,8.0,1476,2005
+583,251355,The Love Chariot,8.2,1103,1988
+584,319736,The Legend of Bhagat Singh,7.9,1637,2002
+585,92067,Castle in the Sky,8.1,21634,1986
+586,56592,To Kill a Mockingbird,8.5,84054,1962
+587,65988,Little Big Man,7.7,14814,1970
+588,195231,Satya,8.2,1986,1998
+589,400234,Black Friday,7.9,1963,2004
+590,40525,The Lady from Shanghai,7.8,8152,1947
+591,97814,Kiki's Delivery Service,7.9,17735,1989
+592,58385,My Fair Lady,7.9,28275,1964
+593,56217,The Man Who Shot Liberty Valance,8.1,22829,1962
+594,30341,The Lady Vanishes,8.1,18102,1938
+595,54997,The Hustler,8.0,25773,1961
+596,55031,Judgment at Nuremberg,8.3,14603,1961
+597,75213,The Shootist,7.6,8557,1976
+598,49778,Somebody Up There Likes Me,7.4,2825,1956
+599,35015,The Magnificent Ambersons,8.0,8880,1942
+600,54331,Spartacus,8.0,51765,1960
+601,44706,High Noon,8.3,34699,1952
+602,10662,Scarlet Days,6.8,288,1919
+603,51036,Sweet Smell of Success,8.1,8981,1957
+604,49291,The Harder They Fall,7.5,2393,1956
+605,36244,The Ox-Bow Incident,8.2,8965,1943
+606,59742,The Sound of Music,7.9,52243,1965
+607,41452,The Heiress,8.2,4592,1949
+608,72431,Young Frankenstein,8.0,57524,1974
+609,63522,Rosemary's Baby,8.1,52083,1968
+610,24184,The Invisible Man,7.8,7993,1933
+611,53221,Rio Bravo,8.0,19232,1959
+612,19585,The Wind,8.4,2488,1928
+613,39224,Brute Force,7.7,2301,1947
+614,57163,Hud,7.9,7596,1963
+615,49096,The Court Jester,7.7,5549,1955
+616,40506,Key Largo,8.0,15124,1948
+617,48424,The Night of the Hunter,8.2,26112,1955
+618,10137,For Better_ for Worse,7.5,485,1919
+619,10806,True Heart Susie,6.9,532,1919
+620,38762,My Darling Clementine,7.8,8026,1946
+621,8499,Rebecca of Sunnybrook Farm,7.4,389,1917
+622,40897,The Treasure of the Sierra Madre,8.5,33801,1948
+623,266697,Kill Bill: Vol. 1,8.2,236434,2003
+624,76363,The Many Adventures of Winnie the Pooh,7.7,5269,1977
+625,10071,Don't Change Your Husband,7.6,690,1919
+626,45555,The Big Heat,8.0,6421,1953
+627,169858,Neon Genesis Evangelion: The End of Evangelion,8.0,6032,1997
+628,9608,Shifting Sands,7.3,493,1918
+629,40724,Red River,7.9,10692,1948
+630,49730,The Searchers,8.0,30082,1956
+631,47136,Johnny Guitar,7.6,4787,1954
+632,10323,The Cabinet of Dr. Caligari,8.0,16917,1920
+633,56869,The Birds,7.9,53134,1963
+634,42208,The Asphalt Jungle,7.9,8515,1950
+635,23158,Love Me Tonight,7.9,1268,1932
+636,38057,Scarlet Street,7.9,3669,1945
+637,10193,The Greatest Question,6.9,423,1919
+638,42531,The Gunfighter,7.8,3163,1950
+639,33467,Citizen Kane,8.6,140096,1941
+640,26138,Bride of Frankenstein,8.0,15865,1935
+641,38669,The Killers,7.9,5854,1946
+642,9652,Stella Maris,7.7,673,1918
+643,38109,Spellbound,7.7,14850,1945
+644,32762,The Mark of Zorro,7.7,3185,1940
+645,9968,Broken Blossoms or The Yellow Man and the Girl,7.7,3469,1919
+646,49261,Giant,7.7,12614,1956
+647,16884,Flesh and the Devil,8.0,1758,1926
+648,12532,Orphans of the Storm,8.1,1706,1921
+649,42593,In a Lonely Place,8.0,6488,1950
+650,52561,Anatomy of a Murder,8.1,17193,1959
+651,46359,Stalag 17,8.2,21117,1953
+652,55614,West Side Story,7.7,29701,1961
+653,33870,The Maltese Falcon,8.4,52255,1941
+654,6826,Hoodoo Ann,6.9,587,1916
+655,6745,Gretchen the Greenhorn,6.9,348,1916
+656,21814,Dracula,7.7,13738,1931
+657,27884,Libeled Lady,7.9,2729,1936
+658,9369,Mickey,7.4,574,1918
+659,61852,The Jungle Book,7.6,27445,1967
+660,54215,Psycho,8.7,146286,1960
+661,88263,Thriller,8.2,5297,0
+662,41859,The Set-Up,7.8,3125,1949
+663,50825,Paths of Glory,8.6,45597,1957
+664,36868,The Best Years of Our Lives,8.3,17619,1946
+665,53291,Some Like It Hot,8.4,68495,1959
+666,35211,The Pride of the Yankees,7.7,4491,1942
+667,23563,The Testament of Dr. Mabuse,7.9,4169,1933
+668,40636,The Naked City,7.7,3273,1948
+669,32551,The Grapes of Wrath,8.3,23756,1940
+670,49406,The Killing,8.2,25225,1956
+671,40369,Fort Apache,7.6,5773,1948
+672,45152,Singin' in the Rain,8.4,56270,1952
+673,29843,The Adventures of Robin Hood,8.1,24112,1938
+674,16104,The Merry Widow,8.0,1029,1925
+675,33729,How Green Was My Valley,7.9,7493,1941
+676,32701,The Letter,7.8,3911,1940
+677,9241,Johanna Enlists,7.0,453,1918
+678,33804,The Lady Eve,8.1,7346,1941
+679,808506,The Girl Who Leapt Through Time,7.9,6598,2006
+680,38355,The Big Sleep,8.3,29484,1946
+681,47522,A Star Is Born,7.8,5489,1954
+682,27532,Dodsworth,8.3,3381,1936
+683,53946,Inherit the Wind,8.1,11134,1960
+684,31455,The Hunchback of Notre Dame,7.9,4464,1939
+685,37884,The Lost Weekend,8.1,11940,1945
+686,27652,Fury,7.9,4057,1936
+687,19130,The Man Who Laughs,7.9,1390,1928
+688,21884,Frankenstein,8.0,23470,1931
+689,35575,Yankee Doodle Dandy,7.7,6120,1942
+690,16641,Ben-Hur: A Tale of the Christ,8.1,3355,1925
+691,4181,Judith of Bethulia,7.6,608,1914
+692,8196,The Little Princess,6.9,398,1917
+693,40160,The Big Clock,7.7,2362,1948
+694,46303,Shane,7.7,14049,1953
+695,8775,Wild and Woolly,6.8,294,1917
+696,35446,To Be or Not to Be,8.1,9159,1942
+697,51201,Witness for the Prosecution,8.4,18493,1957
+698,36342,Shadow of a Doubt,8.1,21892,1943
+699,20298,Queen Kelly,8.0,1309,1929
+700,29870,Angels with Dirty Faces,7.9,8474,1938
+701,43132,Where the Sidewalk Ends,7.7,2035,1950
+702,4972,The Birth of a Nation,7.1,9030,1915
+703,43456,The Day the Earth Stood Still,8.0,34743,1951
+704,24216,King Kong,8.0,39778,1933
+705,34167,Sergeant York,7.9,6379,1941
+706,49366,Invasion of the Body Snatchers,8.0,14807,1956
+707,38559,Gilda,7.7,8981,1946
+708,35432,This Gun for Hire,7.7,2423,1942
+709,18528,The Unknown,7.9,2600,1927
+710,94625,Akira,7.8,40345,1988
+711,53125,North by Northwest,8.6,94708,1959
+712,31971,Stagecoach,7.9,14820,1939
+713,34240,Sullivan's Travels,8.2,9056,1941
+714,38787,Notorious,8.3,32011,1946
+715,20629,All Quiet on the Western Front,8.1,21876,1930
+716,26752,Mutiny on the Bounty,7.9,7675,1935
+717,42192,All About Eve,8.4,35499,1950
+718,32599,His Girl Friday,8.1,20758,1940
+719,48028,East of Eden,8.1,12861,1955
+720,28691,Captains Courageous,7.9,3535,1937
+721,34778,Gentleman Jim,7.7,1256,1942
+722,39689,Out of the Past,8.1,10884,1947
+723,31647,Midnight,7.9,1884,1939
+724,3643,The Avenging Conscience: or 'Thou Shalt Not Kill',6.9,527,1914
+725,32976,Rebecca,8.4,36009,1940
+726,31725,Ninotchka,7.9,6935,1939
+727,40919,Unfaithfully Yours,7.7,1874,1948
+728,58331,Mary Poppins,7.7,34625,1964
+729,37469,The Woman in the Window,7.8,3350,1944
+730,35567,Woman of the Year,7.4,3516,1942
+731,33253,The Westerner,7.6,1481,1940
+732,38190,A Tree Grows in Brooklyn,7.9,2895,1945
+733,32455,Fantasia,7.8,30171,1940
+734,31088,Beau Geste,7.9,2222,1939
+735,30993,You Can't Take It with You,8.0,8673,1938
+736,31679,Mr. Smith Goes to Washington,8.3,33857,1939
+737,31381,Gone with the Wind,8.2,80310,1939
+738,14341,Our Hospitality,8.0,3217,1923
+739,41716,On the Town,7.7,5941,1949
+740,23427,Scarface,7.9,9433,1932
+741,28772,A Day at the Races,7.6,6179,1937
+742,37101,Murder_ My Sweet,7.7,3924,1944
+743,39431,Good News,7.7,1332,1947
+744,22835,Dr. Jekyll and Mr. Hyde,7.7,3934,1931
+745,37865,Leave Her to Heaven,7.7,3153,1945
+746,56218,The Manchurian Candidate,8.2,35187,1962
+747,42546,Harvey,8.1,23633,1950
+748,41239,Champion,7.5,1185,1949
+749,29947,Bringing Up Baby,8.1,23324,1938
+750,40536,Letter from an Unknown Woman,8.0,3303,1948
+751,27996,Mr. Deeds Goes to Town,8.0,7574,1936
+752,28010,My Man Godfrey,8.1,8123,1936
+753,12190,The Four Horsemen of the Apocalypse,8.1,1366,1921
+754,38650,It's a Wonderful Life,8.7,102950,1946
+755,36775,Double Indemnity,8.6,37746,1944
+756,61809,In Cold Blood,8.1,10599,1967
+757,73195,Jaws,8.3,140401,1975
+758,12938,Beyond the Rocks,7.8,1166,1922
+759,32553,The Great Dictator,8.4,37886,1940
+760,44079,Strangers on a Train,8.3,35047,1951
+761,43137,Winchester '73,7.8,5391,1950
+762,32138,The Wizard of Oz,8.3,104445,1939
+763,26778,A Night at the Opera,8.0,14364,1935
+764,23042,I Am a Fugitive from a Chain Gang,8.1,5017,1932
+765,39661,Nightmare Alley,7.7,2644,1947
+766,25878,The Thin Man,8.0,11914,1934
+767,47396,Rear Window,8.7,120663,1954
+768,18455,Sunrise: A Song of Two Humans,8.4,11584,1927
+769,42530,Deadly Is the Female,7.8,3239,1950
+770,22100,M,8.6,40691,1931
+771,33045,The Shop Around the Corner,8.0,8608,1940
+772,9976,The Busher,6.9,468,1919
+773,12349,The Kid,8.3,14646,1921
+774,13086,Dr. Mabuse: The Gambler,7.8,2116,1922
+775,50086,3:10 to Yuma,7.7,5393,1957
+776,60345,How the Grinch Stole Christmas!,8.4,17967,0
+777,39204,Body and Soul,7.9,1689,1947
+778,40746,Rope,8.1,32169,1948
+779,44954,The Narrow Margin,7.8,2286,1952
+780,32143,The Women,7.9,5555,1939
+781,46912,Dial M for Murder,8.1,30695,1954
+782,44837,Limelight,7.9,5753,1952
+783,56687,What Ever Happened to Baby Jane?,8.0,12652,1962
+784,27125,Top Hat,7.8,6094,1935
+785,42041,White Heat,8.2,10344,1949
+786,19258,The Patsy,8.2,1064,1928
+787,36613,Arsenic and Old Lace,8.1,30362,1944
+788,8827,Amarilly of Clothes-Line Alley,6.8,498,1918
+789,46187,Pickup on South Street,7.9,4108,1953
+790,33836,The Little Foxes,8.1,3938,1941
+791,31225,Destry Rides Again,7.8,4217,1939
+792,16220,The Phantom of the Opera,7.7,5769,1925
+793,39628,Miracle on 34th Street,7.9,12844,1947
+794,31448,The Hound of the Baskervilles,7.7,3803,1939
+795,32904,The Philadelphia Story,8.1,28044,1940
+796,40458,I Remember Mama,8.1,2307,1948
+797,18773,The Circus,7.9,5907,1928
+798,24481,Queen Christina,7.9,3133,1933
+799,43338,The Big Carnival,8.2,7661,1951
+800,4707,Tillie's Punctured Romance,7.1,1540,1914
+801,37913,Mildred Pierce,7.9,7402,1945
+802,27977,Modern Times,8.5,36574,1936
+803,10418,Male and Female,7.8,887,1919
+804,11541,One Week,8.1,1745,1920
+805,21749,City Lights,8.6,28199,1931
+806,24069,Gold Diggers of 1933,8.1,2868,1933
+807,10040,Daddy-Long-Legs,7.6,691,1919
+808,52357,Vertigo,8.5,93182,1958
+809,23969,Duck Soup,8.1,27002,1933
+810,19421,Steamboat Bill_ Jr.,7.9,4188,1928
+811,8519,A Romance of the Redwoods,6.9,473,1917
+812,6731,Going Straight,6.9,452,1916
+813,25919,Twentieth Century,7.9,2442,1934
+814,37008,Laura,8.1,14328,1944
+815,21874,Five and Ten,7.9,755,1931
+816,23305,One Way Passage,8.1,1369,1932
+817,28249,Show Boat,7.7,1151,1936
+818,23622,Trouble in Paradise,8.2,4769,1932
+819,24028,Footlight Parade,7.7,1478,1933
+820,291350,Millennium Actress,7.9,5455,2001
+821,25316,It Happened One Night,8.3,25479,1934
+822,16332,Seven Chances,8.0,2414,1925
+823,15163,The Navigator,8.0,2915,1924
+824,119698,Princess Mononoke,8.3,67016,1997
+825,18578,Wings,7.9,3071,1927
+826,29747,Way Out West,7.7,2978,1937
+827,10227,Heart o' the Hills,6.9,351,1919
+828,23027,Horse Feathers,7.6,5477,1932
+829,18806,The Crowd,7.9,3000,1928
+830,10267,The Hoodlum,6.9,504,1919
+831,18742,The Cameraman,8.2,3553,1928
+832,15324,Sherlock Jr.,8.4,7060,1924
+833,7257,Reggie Mixes In,6.8,444,1916
+834,17925,The General,8.4,20398,1926
+835,29192,Make Way for Tomorrow,8.1,1284,1937
+836,983213,5 Centimeters Per Second,7.9,3908,2007
+837,28333,Swing Time,7.7,4036,1936
+838,24067,Going Hollywood,7.8,1034,1933
+839,10103,Eyes of Youth,6.9,494,1919
+840,24188,Island of Lost Souls,7.8,1418,1932
+841,8443,The Poor Little Rich Girl,6.9,431,1917
+842,15864,The Gold Rush,8.3,21426,1925
+843,24034,42nd Street,7.7,4291,1933
+844,22913,Freaks,7.9,13959,1932
+845,15624,The Big Parade,8.4,2604,1925
+846,84868,Vincent,8.4,9756,1982
+847,19379,Show People,8.3,1527,1928
+848,20697,The Blue Angel,7.9,5231,1930
+849,10879,When the Clouds Roll by,7.0,424,1919
+850,14945,Girl Shy,7.9,1292,1924
+851,9900,Back to God's Country,7.0,532,1919
+852,15841,The Freshman,7.7,1727,1925
+853,18051,The Kid Brother,7.9,1442,1927
+854,23251,The Music Box,8.1,2394,1932
+855,10060,The Delicious Little Devil,6.8,540,1919
+856,18737,Pandora's Box,7.9,3473,1929
+857,9356,The Married Virgin,6.8,483,1918
+858,113568,Ghost in the Shell,7.8,27544,1995
+859,14429,Safety Last!,8.3,5650,1923
+860,29583,Snow White and the Seven Dwarfs,7.8,38609,1937
+861,13442,Nosferatu_ eine Symphonie des Grauens,8.0,29570,1922
+862,30448,Mickey's Trailer,8.1,823,1938
+863,12494,Destiny,7.8,1530,1921
+864,17136,Metropolis,8.4,40476,1927
+865,15174,Kriemhild's Revenge,7.8,1223,1924
+866,15175,Die Nibelungen,8.0,1640,1924
+867,15064,The Last Laugh,8.1,3818,1924
+868,20475,Diary of a Lost Girl,7.9,1269,1929
+869,50212,The Bridge on the River Kwai,8.4,59546,1957
+870,16847,Faust,8.0,4553,1926
+871,32910,Pinocchio,7.7,21675,1940
+872,107692,Ninja Scroll,7.9,11443,1993
+873,5916,Posle smerti,6.9,248,1915
+874,15400,The Thief of Bagdad,7.8,1622,1924
+875,85218,Barefoot Gen,8.2,1813,1983
+876,186650,Umirayushchii lebed,6.9,268,1917
+877,113824,Whisper of the Heart,7.9,7893,1995
+878,96283,My Neighbor Totoro,8.1,31852,1988
+879,42871,Rabbit of Seville,8.3,1854,1950
+880,45710,Duck! Rabbit_ Duck!,8.1,1009,1953
+881,45709,Duck Dodgers in the 24 1/2th Century,8.1,2768,1953
+882,51189,What's Opera_ Doc?,8.1,5184,1957
+883,43953,Rabbit Fire,8.1,993,1951
+884,45062,Rabbit Seasoning,8.3,1230,1952
+885,45708,Duck Amuck,8.5,3284,1953
+886,768120,Memories of Matsuko,7.7,1595,2006
+887,388189,Kurtulus,8.4,727,1994
+888,363226,The Blind Swordsman: Zatoichi,7.6,22105,2003
+889,245929,Devils on the Doorstep,8.3,2179,2000
+890,117615,Shall We Dance?,7.8,6117,1996
+891,1069238,Departures,8.1,9748,2008
+892,201368,The Broken Landlord,8.5,3291,1985
+893,184756,Mr. Muhsin,8.5,2485,1987
+894,116231,The Bandit,8.1,10947,1996
+895,765833,Happy Days,8.4,1219,1978
+896,89603,Mishima: A Life in Four Chapters,7.9,2496,1985
+897,252488,Hababam sinifi sinifta kaldi,8.4,5273,1976
+898,263065,Arabesque,8.0,1758,1989
+899,252597,Feyzo_ the Polite One,8.4,3412,1978
+900,263975,The Girl with the Red Scarf,8.5,3486,1978
+901,106332,Farewell My Concubine,7.9,8256,1993
+902,101640,Raise the Red Lantern,8.1,10381,1991
+903,110081,To Live,8.0,6230,1994
+904,58430,Onibaba,8.0,4257,1964
+905,23634,Children of Tokyo,7.9,1316,1932
+906,46438,Tokyo Story,8.2,8530,1953
+907,49012,The Burmese Harp,8.0,1759,1956
+908,57565,High and Low,8.1,7813,1963
+909,47445,Legend of Bailiff Sansho,8.2,4105,1954
+910,44741,Ikiru,8.2,16529,1952
+911,45112,The Life of Oharu,8.1,1461,1952
+912,56443,Sanjuro,8.1,8780,1962
+913,49710,Bushido,7.8,2190,1956
+914,47478,Seven Samurai,8.8,98366,1954
+915,50613,Throne of Blood,8.1,12511,1957
+916,58279,Kwaidan,8.0,4308,1964
+917,80979,Kagemusha,7.9,11555,1980
+918,61847,Samurai Rebellion,8.1,2542,1967
+919,56058,Harakiri,8.2,5766,1962
+920,53121,Fires on the Plain,8.1,1545,1959
+921,55630,Yojimbo,8.3,29787,1961
+922,46478,Ugetsu,8.1,6245,1953
+923,42876,Rashomon,8.4,39750,1950
+924,54144,When a Woman Ascends the Stairs,8.2,1017,1960
+925,58625,Woman in the Dunes,8.2,4625,1964
+926,89881,Ran,8.3,35071,1985
+927,61065,The Face of Another,8.0,1483,1966
